@@ -1,8 +1,7 @@
 # Kube Static Pages Generator
-
-I created this quick boilerplate because I love writing code in Pug and Kube CSS & JS Framework. This boilerplate is great to build quick prototypes.
-
+Same as [kube-static-pages-boilerplate](https://github.com/jaskiratr/kube-static-pages-boilerplate), but with Mapbox-gl
 ### Features
+- Mapbox-gl
 - Pug Templating
 - [Kube CSS](https://imperavi.com/kube/)
 - Gulp
