@@ -1,4 +1,4 @@
-# Kube Static Pages Generator
+# Kube + Mapbox-GL Static Pages Generator
 Same as [kube-static-pages-boilerplate](https://github.com/jaskiratr/kube-static-pages-boilerplate), but with Mapbox-gl
 ### Features
 - Mapbox-gl
